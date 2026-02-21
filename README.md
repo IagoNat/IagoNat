@@ -1,8 +1,6 @@
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IagoNat&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=IagoNat&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
 
 ###
 
