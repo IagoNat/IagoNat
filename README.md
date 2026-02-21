@@ -1,6 +1,8 @@
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IagoNat&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IagoNat&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 ###
 
